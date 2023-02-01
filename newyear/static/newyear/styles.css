@@ -1,0 +1,11 @@
+h1 {
+    font-family: sans-serif;
+    font-size: 200px;
+    text-align: center;
+    color: gold;
+    margin-top:250px;
+}
+
+body {
+    background-color: rgb(14, 1, 1);
+}
